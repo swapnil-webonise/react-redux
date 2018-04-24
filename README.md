@@ -1,2 +1,1 @@
-# react-webpack
-Setup webpack 4 with react 16
+# react-redux
